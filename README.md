@@ -10,7 +10,7 @@ The repo is structured to play nicely with shell version of homesick
 ## Homeshicking It Up
 
 ```
-curl https://raw.githubusercontent.com/rocktavious/dotfiles/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/ehayne/dotfiles/master/bootstrap.sh | bash
 ```
 
 ## License
